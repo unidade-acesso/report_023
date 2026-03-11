@@ -15,7 +15,7 @@ seal: "Prata"                          # Entre as aspas escreve Bronze, Prata ou
 
 ## Relatório de Auditoria
 
-Consulte aqui a última atualização: [Relatório do Município de Oliveira do Hospital](relatorio_report_023)
+Consulte aqui a última atualização: [Relatório do Município de Oliveira do Hospital](report.html)
 
 <details>
   <summary>Histórico de atualizações</summary>
